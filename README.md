@@ -1,4 +1,4 @@
-# Bacpipe_
+# Bacpipe-WGS
 BacPipe from dropbox
 
 BacPipe
